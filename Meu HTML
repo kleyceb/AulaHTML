@@ -1,0 +1,88 @@
+<html>
+
+<head>
+    <title>Meu HTML</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <table style="width:100%; border:2px solid;">
+        <tr>
+            <th colspan="10" style="border: 2px solid; width:33%" align="left"><img src="https://www.ifpk.com.br/images/logo-preto-48.png"></th>
+            <th colspan="10" style="border: 2px solid; width:33%;"><h1>Meu primeiro Site</h1></th>
+            <th colspan="10" style="border: 2px solid; width:33%;"></th>
+        </tr>
+        <tr>
+            <td colspan="10"></td>
+            <td colspan="10" align="center"><h2>Começando com HTML</h2></td>
+            <td colspan="10"></td>
+        </tr>              
+    </table>
+    <table style="border:2px solid; width:20%">
+        <tr>
+            <th colspan="8" style="border: 1px solid; width:3%"><a href="www.google.com">Home</a></th>
+            <th colspan="8" style="border: 1px solid; width:3%"><a href="www.google.com">Sobre o autor</a></th>
+            <th colspan="8"style="border: 1px solid; width:3%"><a href="www.google.com">Contato</a></th>
+        </tr>
+    </table>
+    <table style="width:100%; border:2px solid;">
+        
+        <tr>
+            <td style="width:80%; border: 1px solid">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                <ul>
+                    <li>Imagem de teste</li>
+                    <li>Imagem de teste</li>
+                    <li>Imagem de teste</li>
+                </ul>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                <ol>
+                    <li>Imagem de teste</li>
+                    <li>Imagem de teste</li>
+                    <li>Imagem de teste</li>
+                </ol>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi repellat pariatur obcaecati exercitationem nulla corrupti minus voluptatem voluptates? Accusantium sed nobis quas maxime reiciendis eum commodi ab molestias est.
+
+            </td>   
+            <td style="width:20%; border: 1px solid" valign="top" align="center">
+                <a href="www.google.com">Laravel</a>
+                <p></p>
+                <a href="www.google.com">VueJS</a>
+                <p></p>
+                <a href="www.google.com">NodeJS</a>
+                <p></p>
+                <a href="www.google.com">React</a>                                                        
+            </td>  
+        </tr>      
+    <table style="border: 2px solid">
+            <tr></tr>   
+    </table>            
+    </table>
+    <table style="border: 2px solid; width:14%" align="center">
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+
+        <tr style="border: 1px solid; width:13%">
+            <td align="center"><a href="www.ifpk.com.br">Instituto Flexpeak </a></td>
+        </tr>
+        <tr>
+            <td align="center">Todos os direitos reservados, 2022 ©</td>
+        </tr>
+    </table>
+
+
+
+</html>
